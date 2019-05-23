@@ -17,5 +17,10 @@ We're writing this is in Markdown format so we can two * symbols to indicate a *
 
 We can also use a single * around a blockof text to indicate an *italicised* word.
 
+###Let's throw an image in here
+
+![Nike Logo]({static}/images/nike-logo.png)
+
+
 THE END! (Cool story bro!)
 
